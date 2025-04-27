@@ -17,8 +17,8 @@ Mailit 是一个 Bash 命令包装工具，能够记录任何命令的输出和�
 1. 将脚本保存到系统路径：
 
 ```bash
-sudo curl -o /usr/local/bin/mailit_core.py https://raw.githubusercontent.com/yourrepo/mailit/main/mailit_core.py
-sudo curl -o /usr/local/bin/mailit https://raw.githubusercontent.com/yourrepo/mailit/main/mailit
+sudo curl -o /usr/local/bin/mailit_core.py https://raw.githubusercontent.com/Undermyth/mailit/main/mailit_core.py
+sudo curl -o /usr/local/bin/mailit https://raw.githubusercontent.com/Undermyth/mailit/main/mailit
 ```
 
 2. 设置执行权限：
