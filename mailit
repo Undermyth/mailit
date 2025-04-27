@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# 使用Python脚本处理命令
+python3 /usr/local/bin/mailit_core.py "$@"
